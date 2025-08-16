@@ -1,2 +1,2 @@
-This is my first Git project. i will add this sentense in the new branch.
-This is a great project
+This is my first Git project. i will add this sentense in the new branch
+The project is complete.
